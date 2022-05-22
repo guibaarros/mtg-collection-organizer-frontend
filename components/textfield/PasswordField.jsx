@@ -1,4 +1,4 @@
-function TextField(props) {
+function PasswordField(props) {
   return (
     <input
       className="default-text-field"
@@ -8,4 +8,4 @@ function TextField(props) {
   );
 }
 
-export default TextField;
+export default PasswordField;
