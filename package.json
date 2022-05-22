@@ -1,0 +1,27 @@
+{
+  "name": "mtg-collection-organizer-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guibaarros/mtg-collection-organizer-frontend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guibaarros/mtg-collection-organizer-frontend/issues"
+  },
+  "homepage": "https://github.com/guibaarros/mtg-collection-organizer-frontend#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "next": "^12.1.6",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
+}
